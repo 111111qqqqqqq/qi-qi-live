@@ -1,0 +1,15 @@
+{
+  "name": "祺祺的生活工作台",
+  "short_name": "祺祺生活台",
+  "description": "祺祺并并有条的个人生活管理平台：电子衣橱、生活消耗、赏味期限、读书/电影地图、周末玩耍、节日记录、身体倍棒、生活备忘、行李清单",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdf3f5",
+  "theme_color": "#f78ea4",
+  "orientation": "portrait",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
